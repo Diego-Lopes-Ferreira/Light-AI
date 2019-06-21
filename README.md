@@ -1,5 +1,5 @@
 # Light AI
-## The main idea with this project is to learn the basics o AI, but try something new. 
+## The main idea with this project is to learn the basics o AI and try something new. 
 The algorithm will have to
 - [ ] Open an mp3 file
   - [ ] Know the main frequencies of the music
